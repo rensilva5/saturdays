@@ -78,3 +78,11 @@ function FizzBuzz(n) {
 }
 let finalResult= FizzBuzz(15)
 console.log (finalResult)
+
+// Another way to get an answer
+
+
+et fizzResults = FizzBuzz(15);
+for(let i = 0; i < fizzResults.length; i++){
+    console.log(fizzResults[i])
+}
