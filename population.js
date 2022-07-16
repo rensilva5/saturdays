@@ -32,4 +32,4 @@ function futurePeople (population,n) {
    return findPop
 }
  
-console.log(futurePeople(3248,6))
+console.log(futurePeople(32,6))
