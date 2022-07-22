@@ -86,3 +86,5 @@ et fizzResults = FizzBuzz(15);
 for(let i = 0; i < fizzResults.length; i++){
     console.log(fizzResults[i])
 }
+
+joinStr += originalArray [i]
